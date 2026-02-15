@@ -1,7 +1,8 @@
 {
   "name": "kenbrownfc",
-  "compatibility_date": "2026-02-15",
+  "main": ".wrangler/tmp/deploy-worker.js",
   "assets": {
-    "directory": "./"
+    "directory": ".",
+    "exclude": [".git", ".github", ".wrangler", "node_modules"]
   }
 }
