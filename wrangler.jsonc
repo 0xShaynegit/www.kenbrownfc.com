@@ -1,7 +1,8 @@
 {
-  name kenbrownfc,
-  compatibility_date 2026-02-15,
-  assets {
-    directory .
-  }
+  // Name of your Cloudflare Pages/Workers project
+  "name": "kenbrownfc",
+
+  // Example routes/build settings – adjust as needed
+  "main": "index.html",
+  "compatibility_date": "2025-01-01"
 }
