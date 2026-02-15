@@ -1,8 +1,0 @@
-{
-  "name": "kenbrownfc",
-  "main": ".wrangler/tmp/deploy-R2Xxmb/no-op-worker.js",
-  "assets": {
-    "directory": ".",
-    "exclude": [".git", ".github", ".wrangler", "node_modules"]
-  }
-}
